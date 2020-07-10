@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+h1 {
+  font-size: 50px;
+  color: #3d3d3d;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.timer {
+  color: white;
+  font-weight: 100;
+  font-size: 55px;
+  margin: 40px 0px 20px;
+}
+.field {
+  padding: 10px;
+  border-radius: 3px;
+
+  display: inline-block;
+}
+.value {
+  padding: 10px;
+  border-radius: 3px;
+  background: #3d3d3d;
+  display: inline-block;
+}
+.label {
+  text-transform: uppercase;
+  color: rgb(95, 80, 95);
+  display: block;
+  padding-top: 5px;
+  font-size: 16px;
+}
